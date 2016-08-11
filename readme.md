@@ -11,6 +11,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 
 ## Books
 * [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/)
+* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
 * [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178/)
 * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2/)
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/0241250838/)
