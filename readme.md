@@ -11,6 +11,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 
 ## Books
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/0241250838/)
+* [The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results](https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B01HPVHLHG/)
 * [Tim Gunn: The Natty Professor: A Master Class on Mentoring, Motivating, and Making It Work!](https://www.amazon.com/Tim-Gunn-Professor-Mentoring-Motivating/dp/1476780072/)
 
 ## Videos
