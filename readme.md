@@ -10,6 +10,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 * [Engineering Managers Slack Team](http://engmanagers.github.io) - Slack team for new-ish engineering managers.
 
 ## Books
+* [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/)
 * [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/)
 * [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
 * [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178/)
