@@ -10,6 +10,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 * [Engineering Managers Slack Team](http://engmanagers.github.io) - Slack team for new-ish engineering managers.
 
 ## Books
+* [Tim Gunn: The Natty Professor: A Master Class on Mentoring, Motivating, and Making It Work!](https://www.amazon.com/Tim-Gunn-Professor-Mentoring-Motivating/dp/1476780072/)
 
 ## Videos
 
