@@ -10,6 +10,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 * [Engineering Managers Slack Team](http://engmanagers.github.io) - Slack team for new-ish engineering managers.
 
 ## Books
+* [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178/)
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/0241250838/)
 * [The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results](https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B01HPVHLHG/)
 * [Tim Gunn: The Natty Professor: A Master Class on Mentoring, Motivating, and Making It Work!](https://www.amazon.com/Tim-Gunn-Professor-Mentoring-Motivating/dp/1476780072/)
