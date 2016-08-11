@@ -17,6 +17,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 * [The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results](https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B01HPVHLHG/)
 * [Tim Gunn: The Natty Professor: A Master Class on Mentoring, Motivating, and Making It Work!](https://www.amazon.com/Tim-Gunn-Professor-Mentoring-Motivating/dp/1476780072/)
 * [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336/)
+* [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/)
 
 ## Videos
 
