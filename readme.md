@@ -6,7 +6,14 @@
 
 Also, check out the [Slack Team](https://engmanagers.github.io) associated with these resources.
 
+## Communities
+* [Engineering Managers Slack Team](http://engmanagers.github.io) - Slack team for new-ish engineering managers.
 
+## Books
+
+## Videos
+
+## Conferences
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
