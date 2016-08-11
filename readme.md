@@ -14,6 +14,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 * [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
 * [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178/)
 * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2/)
+* [Startup Engineering Management](https://www.amazon.com/Startup-Engineering-Management-2nd-Piaw/dp/1500621064/)
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/0241250838/)
 * [The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results](https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B01HPVHLHG/)
 * [Tim Gunn: The Natty Professor: A Master Class on Mentoring, Motivating, and Making It Work!](https://www.amazon.com/Tim-Gunn-Professor-Mentoring-Motivating/dp/1476780072/)
