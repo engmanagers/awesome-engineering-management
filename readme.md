@@ -18,7 +18,7 @@ Also, check out the [Slack Team](https://engmanagers.github.io) associated with 
 * [Startup Engineering Management](https://www.amazon.com/Startup-Engineering-Management-2nd-Piaw/dp/1500621064/)
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/0241250838/)
 * [The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results](https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B01HPVHLHG/)
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Chang](http://shop.oreilly.com/product/0636920056843.do)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Chang](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [Tim Gunn: The Natty Professor: A Master Class on Mentoring, Motivating, and Making It Work!](https://www.amazon.com/Tim-Gunn-Professor-Mentoring-Motivating/dp/1476780072/)
 * [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336/)
 * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/)
